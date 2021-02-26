@@ -4,6 +4,7 @@ Projeto construído durante o Next Level Week #04
 ### Tecnologias 
   - [Node.js](https://nodejs.org/en/)
   - [React](https://reactjs.org/)
+  - [Next.js](https://nextjs.org/)
   - [TypeScript](https://www.typescriptlang.org/)
 
 ## 🔥 Preview
