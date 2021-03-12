@@ -14,7 +14,7 @@ Projeto construído durante o Next Level Week #04
 
 Clone o projeto e acesse a pasta
 ```sh
-$ git clone https://github.com/DilvaQueiroz/NLW_04-Moveit.git && cd NLW_04-Moveit
+$ git clone https://github.com/DilvaQueiroz/Moveit.git && cd Moveit
 ```
 
 Para Instalar todas as dependências do projeto use:
